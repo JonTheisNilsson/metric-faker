@@ -1,0 +1,16 @@
+INFO:root:201804031517 - Started
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): beta.serviceclarity.com
+DEBUG:urllib3.connectionpool:https://beta.serviceclarity.com:443 "POST /pub/login/ HTTP/1.1" 200 71
+DEBUG:root:2018-04-03 15:18:29 - OK
+DEBUG:urllib3.connectionpool:https://beta.serviceclarity.com:443 "POST /api/collector/ HTTP/1.1" 202 0
+DEBUG:root:2018-04-03 15:18:29 - OK
+DEBUG:urllib3.connectionpool:https://beta.serviceclarity.com:443 "POST /api/logout/ HTTP/1.1" 202 0
+DEBUG:root:2018-04-03 15:18:29 - OK
+INFO:root:Started at: 201804040917
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): beta.serviceclarity.com
+DEBUG:urllib3.connectionpool:https://beta.serviceclarity.com:443 "POST /pub/login/ HTTP/1.1" 200 71
+DEBUG:root:201804040918 - OK
+DEBUG:urllib3.connectionpool:https://beta.serviceclarity.com:443 "POST /api/collector/ HTTP/1.1" 202 0
+DEBUG:root:201804040918 - OK
+DEBUG:urllib3.connectionpool:https://beta.serviceclarity.com:443 "POST /api/logout/ HTTP/1.1" 202 0
+DEBUG:root:201804040918 - OK
